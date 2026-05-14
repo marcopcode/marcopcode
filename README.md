@@ -1,6 +1,8 @@
 # ⚔️ Ahoy, ye Code Slingers!
 _______________________________________________________________
 
+<img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUybW40OGFicmc4Y3B5aWdtYmk5OHg3eWFjbzNpZXV0aDZ2OXIyYms5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3isEdzuk2tHAbZ0ao/giphy.gif"></img>
+
 I'm Marco P. , i introduce myself as an indomitable hobbist and self-taught sea dog with an educational background in galvanized copper (electronics) although i embark some interest on modern ciphers (software) and other side quests, so i wouldn't really qualify myself as a programmer. I’m just a sailor riggin' his own sails.  
 The moniker i chose has double meaning, as it could be interpreted both as **Marco P. Code** and as a vague recall to the concept of **opcode**, the very bone and marrow of any architecture. I roam this digital ocean mainly to sharpen my cutlass, for personal learning and related practice. This fleet of repositories — be these public or hidden in the fog— contains academic treasures, resources, lectures, and exercises hauled from the vast public reaches of the Great Web, so even illiterate filibusters and greedy buccaneers can consult them for educational purposes.  
 
