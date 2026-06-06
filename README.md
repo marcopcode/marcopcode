@@ -18,7 +18,7 @@ Anyway, i let my curiosity be the North Star guidin' my rudder, well aware that 
 
 ### 👀 my interests:
 
-🌍 **Open Source** | 🐞 **Debugging** | 🧱 **Assembly Language** | 🛠️ **Reverse Engineering** | 🛡️ **Infosec** | 🔒 **Cryptography** | 💀 **Digital Forensics** | 🧠 **Computer Architectures** | 🕊️ **Telecommunications** | 🐙 **Embedded Systems**
+🌍 **Open Source** | 🐞 **Debugging** | 🧱 **Assembly Language** | 🛠️ **Reverse Engineering** | 🛡️ **Infosec** | 🔒 **Cryptography** | 💀 **Digital Forensics** | 🧠 **Computer Architectures** | 🕊️ **Telecommunications** | 🐙 **Embedded Systems** | ⚙️ **Semiconductors**
 
 ### 🌱 culture and aspirations:
  
