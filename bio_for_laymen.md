@@ -19,7 +19,8 @@ As Dante said "Consider your origins: you were not made to live as brutes, but t
  
 - improve my skills in order to broaden the frontier of my aptitudes, to achieve a technical mastery and a deep knowledge in as many disciplines as possible. Knowledge is consciousness.
 - know how to analyze things of any kind, even without knowing its specific purposes. Things are just what they do.
-- be able to break down any signal, even if dirty or noisy, to be able to trace it back to the equivalent circuit that generated it. Even noise has a voice and something to say.
+- be able to break down any signal, even if dirty or noisy, to trace it back to the equivalent circuit that generated it. Even noise has a voice and something to say.
+- be able to identify structures and underlying patterns in random data. Even randomness has a blueprint.
 - know how to acquire all the needed information on whatever device i see (architectural reference documentation, component datasheets, dynamic analyses) and understand its operating logic at an arbitrary level of detail and depth along the typical stack (physical, logical, protocol, software). Understanding is mind literacy.
 - be able to see everything about computer science through the lenses of an electronic technician, that tries to delve what is happening under the hood, because hardware is the cornerstone for the software. Whoever changes the world is the one who continues to look at it with ever new lenses.
 - be able to derive simpler rules from complex situations, as in reality, everything is made of rules and approaching CS from scratch allows you to face a whole universe of very different things, starting from the most atomic and fundamental thing known, whether it's the **opcode** or whatever a meaningful rule is. Reality is really elusive, mystical and indecipherable.
