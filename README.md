@@ -22,18 +22,65 @@ Anyway, i let my curiosity be the North Star guidin' my rudder, well aware that 
 
 ### 🌱 culture and aspirations:
  
-- to sharpen my cutlass in order to broaden the frontier of my aptitudes, to achieve the technical mastery and the deep knowledge of a boatswain in as many disciplines as the Seven Seas can hold. Knowledge is consciousness.
-- to know how to dissect hardware machinery of any kind, even without knowing its specific purposes. Things are just what they do, just as a ship is defined not by its armory, but by how it cuts through the gale.
-- be able to listen to the sound of the waves inside the shells and understand from which sea the gale heard in the shell comes. For mermaids always have a voice and something to sing.
-- to discover hidden wreckage and their past routes within the chaotic tides. Aye, even the wildest maelstrom follows a captain's chart.
-- to know how to acquire all the needed information inside the hull of whatever hardware ship i see (ancient architectural charts, component datasheets, dynamic analyses) and fathom its operating logic at an arbitrary level of detail and depth beyond the water surface (physical, logical, protocol, software). Understanding is mind literacy.
-- to be able to see everything about cipher doctrine (computer science) through the spyglass of a copper technician (electronics), that tries to hatch the sunken chest, because hardware is the pearl in the software shell. Whoever changes the world is the one who continues to look at it with ever new spyglasses, seekin' a clearer horizon where others see only fog.
-- to be able to wrest simple rules from the most tangled of storms, for in this life, every wave and every gale is governed by its own law. approachin' the vast ocean of STEAM from scratch allows a sailor to face a world of wonders, startin' from the most atomic and fundamental spark—be it the opcode or any rule that carries meanin'. Truth is really elusive, mystical and indecipherable.
-- to know how the hardware ship is truly commanded and how to seize full control over its iron heart. I strive to fathom how a high-level software whisper is translated into the low-level roar of the machine, expressed in the native ISA of any architecture. For i know well that language is made of meanings, and to have a silicon tongue is to truly rule over the crew and the ship.  
-- to have the grit to reconstruct the logic of any ancient software cipher, even when it appears as a sealed chest found at the bottom of the sea. I want to discern its purpose without knowin' the hands that forged it or the methods they used, even when the charts are obsolete, untrusted, or missin' altogether. I dive deep where the source code is long gone, for i know that distrust in technology is hope in technology — only by doubtin' the hull can we find the leaks. 
-- to adhere to a strict Code of Honor and believe that even illiterate filibusters and greedy buccaneers can resolve their merge conflicts and behave ethically, harmlessly and respectifully of others and of legitimate rights like copyright, intellectual property and privacy. I discourage any illicit purpose. On this ship, we fight for knowledge, not for ruin, and damaging others is a form of self destruction, because it's not catholic.
-- to have the patience to track down defects in the hull, to document them, freeze them in a picture, reproduce the storms and understand their causes. Best observers are often the forgetful and blind ones and the best light comes from the stars, not from lanterns.
-- to have a methodology for everything, because its absence and poor written code unveils a certain lack of reasoning. Methodology is a form of caregiving to the ship and the crew and care is the best therapy, even for scurvy.
+<details>
+  <summary>Improvement</summary>
+to sharpen my cutlass in order to broaden the frontier of my aptitudes, to achieve the technical mastery and the deep knowledge of a boatswain in as many disciplines as the Seven Seas can hold. Knowledge is consciousness.
+</details>
+
+<details>
+  <summary>Depth</summary>
+to know how to dissect hardware machinery of any kind, even without knowing its specific purposes. Things are just what they do, just as a ship is defined not by its armory, but by how it cuts through the gale.
+</details>
+
+<details>
+  <summary>Insight</summary>
+be able to listen to the sound of the waves inside the shells and understand from which sea the gale heard in the shell comes. For mermaids always have a voice and something to sing.
+</details>
+
+<details>
+  <summary>Perception</summary>
+to discover hidden wreckage and their past routes within the chaotic tides. Aye, even the wildest maelstrom follows a captain's chart.
+</details>
+
+<details>
+  <summary>Curiosity</summary>
+to know how to acquire all the needed information inside the hull of whatever hardware ship i see (ancient architectural charts, component datasheets, dynamic analyses) and fathom its operating logic at an arbitrary level of detail and depth beyond the water surface (physical, logical, protocol, software). Understanding is mind literacy.
+</details>
+
+<details>
+  <summary>Openness</summary>
+to be able to see everything about cipher doctrine (computer science) through the spyglass of a copper technician (electronics), that tries to hatch the sunken chest, because hardware is the pearl in the software shell. Whoever changes the world is the one who continues to look at it with ever new spyglasses, seekin' a clearer horizon where others see only fog.
+</details>
+
+<details>
+  <summary>Awareness</summary>
+to be able to wrest simple rules from the most tangled of storms, for in this life, every wave and every gale is governed by its own law. approachin' the vast ocean of STEAM from scratch allows a sailor to face a world of wonders, startin' from the most atomic and fundamental spark—be it the opcode or any rule that carries meanin'. Truth is really elusive, mystical and indecipherable.
+</details>
+
+<details>
+  <summary>Fluency</summary>
+to know how the hardware ship is truly commanded and how to seize full control over its iron heart. I strive to fathom how a high-level software whisper is translated into the low-level roar of the machine, expressed in the native ISA of any architecture. For i know well that language is made of meanings, and to have a silicon tongue is to truly rule over the crew and the ship.
+</details>
+
+<details>
+  <summary>Adaptability</summary>
+to have the grit to reconstruct the logic of any ancient software cipher, even when it appears as a sealed chest found at the bottom of the sea. I want to discern its purpose without knowin' the hands that forged it or the methods they used, even when the charts are obsolete, untrusted, or missin' altogether. I dive deep where the source code is long gone, for i know that distrust in technology is hope in technology — only by doubtin' the hull can we find the leaks.
+</details>
+
+<details>
+  <summary>Integrity</summary>
+to adhere to a strict Code of Honor and believe that even illiterate filibusters and greedy buccaneers can resolve their merge conflicts and behave ethically, harmlessly and respectifully of others and of legitimate rights like copyright, intellectual property and privacy. I discourage any illicit purpose. On this ship, we fight for knowledge, not for ruin, and damaging others is a form of self destruction, because it's not catholic.
+</details>
+
+<details>
+  <summary>Patience</summary>
+to have the patience to track down defects in the hull, to document them, freeze them in a picture, reproduce the storms and understand their causes. Best observers are often the forgetful and blind ones and the best light comes from the stars, not from lanterns.
+</details>
+
+<details>
+  <summary>Rigor</summary>
+to have a methodology for everything, because its absence and poor written code unveils a certain lack of reasoning. Methodology is a form of caregiving to the ship and the crew and care is the best therapy, even for scurvy.
+</details>  
 
 ### 😶‍🌫️ how to reach me:
 
