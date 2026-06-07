@@ -24,7 +24,7 @@ Anyway, i let my curiosity be the North Star guidin' my rudder, well aware that 
  
 - to sharpen my cutlass in order to broaden the frontier of my aptitudes, to achieve the technical mastery and the deep knowledge of a boatswain in as many disciplines as the Seven Seas can hold. Knowledge is consciousness.
 - to know how to dissect hardware machinery of any kind, even without knowing its specific purposes. Things are just what they do, just as a ship is defined not by its armory, but by how it cuts through the gale.
-- be able to listen to the sound of the waves inside the shells and understand which sea's gale they reproduce. For mermaids always have a voice and something to sing.
+- be able to listen to the sound of the waves inside the shells and understand from which sea the gale heard in the shell comes. For mermaids always have a voice and something to sing.
 - to discover hidden wreckage and their past routes within the chaotic tides. Aye, even the wildest maelstrom follows a captain's chart.
 - to know how to acquire all the needed information inside the hull of whatever hardware ship i see (ancient architectural charts, component datasheets, dynamic analyses) and fathom its operating logic at an arbitrary level of detail and depth beyond the water surface (physical, logical, protocol, software). Understanding is mind literacy.
 - to be able to see everything about cipher doctrine (computer science) through the spyglass of a copper technician (electronics), that tries to hatch the sunken chest, because hardware is the pearl in the software shell. Whoever changes the world is the one who continues to look at it with ever new spyglasses, seekin' a clearer horizon where others see only fog.
