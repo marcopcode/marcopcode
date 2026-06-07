@@ -9,7 +9,7 @@ The moniker i chose has double meaning, as it could be interpreted both as **Mar
 ### ⚓ The Corsair’s Oath to the STEAM Seas
 
 I am passionate and deeply driven by the currents of the STEAM (Science, Technology, Engineering, Art, Math) disciplines. I believe in research and technology as the finest tools in a mariner's chest capable of bringing fair weather into everyday life, empowering sailors on their decks and improving their knowledge. I think that it's a noble mission, deserving to be pursued with willingness and discipline.  
-A wicked captain once said to its crew, 'you were not made to live like brutes, but to follow virtue and knowledge,' but the virtues i follow are science, fortitude, prudence, and temperance, and they are the cardinal directions carved into my compass. To the other three, the winds of Providence will lead me.
+A wicked captain once said to its crew, 'you were not made to live like brutes, but to follow virtue and knowledge', but the virtues i follow are science, fortitude, prudence, and temperance, and they are the cardinal directions carved into my compass. To the other three, the winds of Providence will lead me.
 Anyway, i let my curiosity be the North Star guidin' my rudder, well aware that generosity is the highest treasure for a wise Captain. This inner fire, to which i owe every scrap of map and lore i’ve ever gathered, sails with me on every voyage. Day by day, I strive to trim the sails and sharpen my wits, seekin' to bring a bit more light to the dark waters of ignorance.
 
 ### ☀️ some of my attributes:
